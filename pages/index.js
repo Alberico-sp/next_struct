@@ -5,4 +5,5 @@ function Home() {
 function teste() {
   console.log("testando");
 }
+
 export default Home;
